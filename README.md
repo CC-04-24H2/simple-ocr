@@ -19,5 +19,5 @@ http://127.0.0.1:8000
 ```
 
 ## Thank You
-This repo is a form of [putuwaw's](https://github.com/putuwaw/weekcon-hands-on/tree/main/simple-ocr) repo.
+This repo is a fork of [putuwaw's](https://github.com/putuwaw/weekcon-hands-on/tree/main/simple-ocr) repo.
 Thank for creating this ML model/deployment for the use of CC-04 hands-on project.
